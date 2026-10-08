@@ -20,6 +20,9 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Ignorar carpeta de datos local del frontend
-frontend/data/
-web-development/gestion_calidad/frontend/data/
+# Excluir únicamente la carpeta master y sus archivos pesados
+web-development/gestion_calidad/frontend/data/sgc/master/
+frontend/data/sgc/master/
+
+# Permitir que el resto de la carpeta data (como politicas_canon) sí se suba a Git
+!web-development/gestion_calidad/frontend/data/sgc/politicas_canon/

@@ -1,0 +1,494 @@
+.
+├── Alta Dirección
+│   ├── 2023
+│   │   ├── Bitacoras sesiones de trabajo
+│   │   │   ├── Bitacora Reuniones Alta Direccion 05.10.23.docx
+│   │   │   ├── Bitacora Reuniones Alta Direccion 19.10.23.docx
+│   │   │   └── Bitacora Reuniones Alta Direccion 28.09.23.docx
+│   │   ├── Reporte auditoria
+│   │   │   ├── 2023 Exit Meeting QMS.pptx
+│   │   │   ├── CMEX 2023 QMS Internal Audit Report.pdf
+│   │   │   └── QMS Internal Audit Report 2023 Annex A.pdf
+│   │   └── Top Management Review
+│   │       ├── 2023 Top Management Review.pptx
+│   │       ├── Revision of Direction of QMS 2023-20231108_105939-Grabación de la reunión.mp4
+│   │       └── Top Management Review.pdf
+│   ├── 2024
+│   │   ├── Reporte de Auditoria
+│   │   │   ├── PRO-049 0.3 REPORTE DE AUDITORIA.pdf
+│   │   │   └── PRO-049 0.4 ANNEX A.pdf
+│   │   └── Top Management Review
+│   │       └── Top Management Review - 2024.pdf
+│   ├── 2025
+│   │   └── Top Management Review - 2025.pdf
+│   └── Certificado Iso
+│       └── CERTIFICADOS CANON MEXICANO 2023.pdf
+├── Formatos
+│   ├── POL- 003 0.5 MANUAL DE DOCUMENTACION.docx
+│   ├── POL-003 0.1 FORMATO PROCESO.docx
+│   ├── POL-003 0.2 FORMATO PROCESO INGLES.docx
+│   ├── POL-003 0.3 FORMATO POLITICA.docx
+│   └── POL-003. 04 FORMATO POLITICA INGLE3.docx
+├── Gestión No Conformidades
+│   ├── 1.-Call Center
+│   │   ├── #390942.jpg
+│   │   ├── BCC_KPIs2024_Sem09.pdf
+│   │   ├── CCC_KPIs2024_Sem09.pdf
+│   │   └── Evaluación de calidad.xlsx
+│   ├── 2.-Partes Interesadas, Satisfacción de clientes
+│   │   ├── FW Plan Promocional Febrero 2024 Canon.msg
+│   │   ├── FW Price comparison  January 29.msg
+│   │   ├── FW Sanborns - Plan promocional Febrero 2024.msg
+│   │   ├── Norma ISO 9001-2015 apartado 4.2 Evidencias Dirección Comercial ITCG.xlsx
+│   │   ├── Precios mínimo a Publicar mes de Febrero 2024 .msg
+│   │   ├── RV February 2024 Promotion plan - Photoshop.msg
+│   │   └── RV Precios y promociones de enero 2024 - Importancia de la alineación con los precios MAP.msg
+│   ├── 3.-Planificacion de Cambios
+│   │   └── PRO-053.1 FORMATO GESTIÓN DE CAMBIOS QMS.docx
+│   ├── 4.-No Conformidades y Acciones correctivas
+│   │   ├── imagen (1).png
+│   │   └── imagen.png
+│   ├── 5.-Control de los Registros
+│   │   ├── Acciones correctivas.msg
+│   │   ├── INTSER-01 RECEPCION DE EQUIPOS EN SERVICIO DIRECTO.pdf
+│   │   ├── INTSER-02 CONTROL DE CALIDAD DE LAS REPARACIONES.pdf
+│   │   ├── PRO-036.1 ORDEN DE REPARACION.pdf
+│   │   ├── PRO-036.2 SOLICITUD DE ENTREGA DE EQUIPO.pdf
+│   │   └── PRO-036.3 REVISION DE ORDENES DE REPARACION.pdf
+│   └── Seguimiento No conformidades AUE.xlsx
+├── Gestión de Cambios
+│   └── PRO-053.1 FORMATO GESTIÓN DE CAMBIOS QMS.docx
+├── Gestión de Riesgos
+│   ├── Pol-002
+│   │   └── PRO-056.1 MATRIZ GESTION DE RIESGOS_F.pdf
+│   ├── Pro-001
+│   │   └── Matriz de riesgo PRO-001 Proceso Planeación de compra de producto.pdf
+│   ├── Pro-002
+│   │   └── Matriz de Riesgo PRO-002 Proceso Planeación de compra de refacciones BICG.pdf
+│   ├── Pro-003
+│   ├── Pro-004
+│   │   └── PRO-056.1 MATRIZ GESTION DE RIESGOS (PRO-004) CL.pdf
+│   ├── Pro-005
+│   │   └── PRO-056.1 MATRIZ GESTION DE RIESGOS_CARE CENTER.pdf
+│   ├── Pro-006
+│   ├── Pro-007
+│   ├── Pro-008
+│   ├── Pro-009
+│   ├── Pro-010
+│   │   └── PRO-010 MATRIZ GESTION DE RIESGOS.pdf
+│   ├── Pro-011
+│   │   └── PRO-011 MATRIZ GESTION DE RIESGOS.pdf
+│   ├── Pro-012
+│   │   └── PRO-056.1 MATRIZ GESTION DE RIESGOS - Wholesalers Sale.pdf
+│   ├── Pro-013
+│   │   └── PRO-056.1 MATRIZ GESTION DE RIESGOS (PRO-013) CL.pdf
+│   ├── Pro-014
+│   │   └── PRO-056 MATRIZ GESTION DE RIESGOS.pdf
+│   ├── Pro-015
+│   │   └── PRO-056. MATRIZ DE RIESGO PROCESO 015 VENTAS DISTRIBUIDORES FINAL.pdf
+│   ├── Pro-016
+│   │   └── PRO-056.1 MATRIZ GESTION DE RIESGOS PRO-016.pdf
+│   ├── Pro-017
+│   │   └── PRO-056.1 MATRIZ GESTION DE RIESGOS.pdf
+│   ├── Pro-018
+│   │   └── PRO-056.1 MATRIZ GESTION DE RIESGOS PRO-018  Product Planning & Mktg_Camera IJP 1.pdf
+│   ├── Pro-019
+│   │   └── PRO-056.1 MATRIZ GESTION DE RIESGOS_PRO-019 Product Planning & Mktg_Camera IJP 1.pdf
+│   ├── Pro-020
+│   ├── Pro-021
+│   ├── Pro-022
+│   ├── Pro-023
+│   │   └── Matriz de riesgo PRO-023 Proceso Alta de Refacciones BICG.pdf
+│   ├── Pro-024
+│   ├── Pro-025
+│   │   └── PRO-056.1 MATRIZ GESTION DE RIESGOS_PRO-025 Product Planning & Mktg_Camera IJP 1.pdf
+│   ├── Pro-026
+│   ├── Pro-027
+│   ├── Pro-028
+│   │   └── Matriz de riesgo PRO-028 Proceso Lista de Precios Refacciones_.pdf
+│   ├── Pro-029
+│   │   └── Matriz de riesgo PRO-029 Proceso Captura de pedidos.pdf
+│   ├── Pro-030
+│   ├── Pro-031
+│   │   └── PRO-031 MATRIZ GESTION DE RIESGOS v2.pdf
+│   ├── Pro-032
+│   ├── Pro-033
+│   ├── Pro-034
+│   │   └── PRO-034.1 MATRIZ GESTION DE RIESGOS..pdf
+│   ├── Pro-035
+│   ├── Pro-036
+│   │   └── PRO-056.1 MATRIZ GESTION DE RIESGOS.pdf
+│   ├── Pro-037
+│   │   └── PRO-037 MATRIZ GESTION DE RIESGOS v2.pdf
+│   ├── Pro-038
+│   ├── Pro-039
+│   │   └── PRO-039 MATRIZ GESTION DE RIESGOS v2.pdf
+│   ├── Pro-040
+│   │   └── PRO-056.1 MATRIZ GESTION DE RIESGOS_CARE CENTER.pdf
+│   ├── Pro-041
+│   │   └── Pro-041 PROCESO DE RECLUTAMIENTO.pdf
+│   ├── Pro-042
+│   │   └── Pro-042 PROCESO DE CAPACITACIÓN POR COMPETENCIAS.pdf
+│   ├── Pro-043
+│   │   └── PRO-043 MATRIZ GESTION DE RIESGOS (004) v2.pdf
+│   ├── Pro-044
+│   │   └── Pro-044 PROCESO EVALUACION DEL DESEMPEÑO.pdf
+│   ├── Pro-045
+│   ├── Pro-046
+│   ├── Pro-047
+│   ├── Pro-048
+│   ├── Pro-049
+│   ├── Pro-050
+│   ├── Pro-051
+│   ├── Pro-052
+│   │   └── PRO-052.1 MATRIZ GESTION DE RIESGOS.pdf
+│   ├── Pro-053
+│   ├── Pro-054
+│   │   └── PRO-054 MATRIZ GESTION DE RIESGOS v2.pdf
+│   ├── Pro-055
+│   │   └── PRO-055 MATRIZ GESTION DE RIESGOS v2.pdf
+│   ├── Risk Matrix- November 9th.xlsx
+│   └── Risk Matrix-Service and Call Center.xlsx
+├── Instructivos de Trabajo
+│   ├── Acomodo de la Mercancia
+│   │   ├── IT-003 Acomodo de Mercancía V9.pdf
+│   │   └── WMS 8.4 Recepción de Mercancía V2.pdf
+│   ├── Acondicionamiento de la Mercancia
+│   │   └── IT-002 Proceso de Acondicionamiento de Mercancía V10.pdf
+│   ├── Auditoria
+│   │   ├── Formatos Retail.pdf
+│   │   ├── IT-011 Auditoria V7.pdf
+│   │   ├── IT-011-1 Reglamento Auditoría de Surtido V2.pdf
+│   │   └── WMS 8.4.1 Auditoría Interna V2.pdf
+│   ├── Control de Calidad en las Reparaciones
+│   │   └── INTSER-02_2015.pdf
+│   ├── Embarque de Mercancia
+│   │   ├── IT-008 Embarque de Mercancía V8.pdf
+│   │   └── WMS 8.4.1 Procedimientos de Embarques V2.pdf
+│   ├── Help Desk WMS
+│   │   └── WMS 8.4 Help Desk V1.pdf
+│   ├── Manejo de Devoluciones, Cancelaciones y Rechazos
+│   │   └── IT-012 Manejo de Devoluciones, Cancelaciones y Rechazos V6.pdf
+│   ├── Manejo de W´s y Folleteria
+│   │   └── IT-009 Manejo de W_s y Folletería V6.pdf
+│   ├── Manuales de S21
+│   │   ├── Administracion de Inventarios
+│   │   │   └── S21 Inventory System Training Manual_v1.pdf
+│   │   ├── Administracion de Recibos
+│   │   │   ├── Logistics Training Manual_Inbound.pdf
+│   │   │   ├── S21 Receiving Reference Guide_01_ Import Process.pdf
+│   │   │   ├── S21 Receiving Reference Guide_02_i_ Screen Specification_Vendor Invoice Inquiry.pdf
+│   │   │   ├── S21 Receiving Reference Guide_02_ii Screen Specification_Vendor Invoice Entry.pdf
+│   │   │   └── Training Manual_Vis.pdf
+│   │   ├── Administracion de activos
+│   │   │   └── S21 Asset Management System Training Manual_v1.pdf
+│   │   ├── Administracion de embarques
+│   │   │   └── S21 Shipping Management System Training Manual.pdf
+│   │   ├── Alcance del S21
+│   │   ├── Archivos Maestros
+│   │   │   ├── 00_S21 Master Reference Guide - Introduction (1).pdf
+│   │   │   ├── 1 Mercancias
+│   │   │   │   ├── 05_i_Master Reference Guide - Merchandise Set up.pdf
+│   │   │   │   ├── 05_ii_Master Reference Guide - Merchandise Set up.pdf
+│   │   │   │   ├── 05_iii_Master Reference Guide - MDSE Structure Set up.pdf
+│   │   │   │   ├── 05_iv_Master 3rd_Party_Vendor_Drop Reference Guide.pptx.pdf
+│   │   │   │   ├── 05_v_Master_Setup_Price_Upload.pptx .pdf
+│   │   │   │   └── Supersede Maintenance.pdf
+│   │   │   ├── 2 Organizacion
+│   │   │   │   ├── 06_i_S21 Master Reference Guide - Organization Set up.pdf
+│   │   │   │   ├── 06_ii_Organization_Structure_with_Sales_Rep(DMAL2030).pdf
+│   │   │   │   ├── 06_iii_Sales_Rep-Person_Relationship(DMAL2040).pdf
+│   │   │   │   ├── 06_iv_Report_to_Hierarchy(DMAL2020) (1).pdf
+│   │   │   │   ├── 06_iv_Report_to_Hierarchy(DMAL2020).pdf
+│   │   │   │   ├── 06_v_Personal_Information_Maintenance(DMAL2000).pdf
+│   │   │   │   ├── 06_vi_Territory_Structure_Setup(DMAL2031).pdf
+│   │   │   │   ├── 06_vii_Technician_Information(DMAL1040).pdf
+│   │   │   │   └── 06_viii_Org_Stru_Inquiry(DMAL2300).pdf
+│   │   │   ├── 3 Partner
+│   │   │   │   ├── 07_ii_01.Request_Customer (1).pdf
+│   │   │   │   ├── 07_ii_01.Request_Customer.pdf
+│   │   │   │   ├── 07_ii_02.New Location_Approve.pdf
+│   │   │   │   ├── 07_ii_03.New Location_Credit_Profile_Setup.pdf
+│   │   │   │   ├── 07_iii_01.Change_Request_Location_Info_Change.pdf
+│   │   │   │   ├── 07_iii_02.Account_Manager_Review.pdf
+│   │   │   │   ├── 07_iii_03.Credit_Review.pdf
+│   │   │   │   ├── 07_iii_04.Approve.pdf
+│   │   │   │   ├── 07_iv_M_A.pdf
+│   │   │   │   ├── 07_v_Tax_Exemption_Setup.pdf
+│   │   │   │   ├── 07_vi_Vendor_Information(DMAL4500).pdf
+│   │   │   │   ├── 07_vii_Canon_Location(DMAL4510, DMAL4530).pdf
+│   │   │   │   └── 07_viii_Technician Location Setup.pdf
+│   │   │   ├── 4 Condiciones de Venta
+│   │   │   │   ├── 08_i_Price_List.pdf
+│   │   │   │   ├── 08_ii_Standard_Warehouse.pdf
+│   │   │   │   ├── 08_iii_Warehouse_by_Postal.pdf
+│   │   │   │   ├── 08_iv_ASN_Req.pdf
+│   │   │   │   ├── 08_v_Payment_Term.pdf
+│   │   │   │   ├── 08_vi_Sales_Rep_Assignment.pdf
+│   │   │   │   └── 08_vii_Pricing Condition Setup.pdf
+│   │   │   ├── 5 Consulta a Maestros
+│   │   │   │   ├── 09_i_Cust_Inquiry Reference Guide.pdf
+│   │   │   │   ├── 09_ii_Prod_Stru_Inquiry Reference Guide.pdf
+│   │   │   │   └── 09_iii_Org_Stru_Inquiry Reference Guide.pdf
+│   │   │   └── 6 Mantenimiento a Codigos
+│   │   │       └── DMAL6320 Prod Line Price Category Matrix Maintenance  .pdf
+│   │   ├── Captura de ordenes
+│   │   │   ├── S21 OM 04 Credit Debit Process.pdf
+│   │   │   ├── S21 OM 05i Order Entry.pdf
+│   │   │   ├── S21 OM07_vii _Appendix.pdf
+│   │   │   ├── S21 OM_ 03 Manual Order Process.pdf
+│   │   │   ├── S21 OM_0 Introduction.pdf
+│   │   │   ├── S21 OM_05_ii_Screen Specification_Sales Reporting.pdf
+│   │   │   ├── S21 OM_06_i Appendix_Pricing Popup.pdf
+│   │   │   ├── S21 OM_06_ii_Appendix_Sales_Credit Hold List.pdf
+│   │   │   ├── S21 OM_06_iii_ Appendix_AsIs_vs_S21 Master Structure.pdf
+│   │   │   ├── S21 OM_06_iii_ Appendix_LAN.pdf
+│   │   │   ├── S21 OM_06_iv_ Appendix_Threshold Setup.pdf
+│   │   │   ├── S21 OM_06_ix Appendix_Lead Time Calculation.pdf
+│   │   │   ├── S21 OM_06_vi_Appendix_Prodcut ReplacementSupersede.pdf
+│   │   │   └── S21 OM_6_iii_ Appendix_Hold Maintenance.pdf
+│   │   ├── Compras
+│   │   │   ├── S21 Procurement Reference Guide_01 PO Entry.pdf
+│   │   │   ├── S21 Procurement Reference Guide_01 Screen Specification_PO Entry.pdf
+│   │   │   ├── S21 Procurement Reference Guide_02 3rd Party Vendor Drop.pdf
+│   │   │   ├── S21 Procurement Reference Guide_03 Kitting.pdf
+│   │   │   ├── S21 Procurement Reference Guide_04 Refurbish.pdf
+│   │   │   ├── S21 Procurement Reference Guide_08 ROP Process (1).pdf
+│   │   │   ├── S21 Procurement Reference Guide_09 EDI Related Function.pdf
+│   │   │   ├── S21 Procurement Reference Guide_Domestic Vendor Return.pdf
+│   │   │   └── ★S21 WDS DEMO(PTP) 0515 v2.pdf
+│   │   ├── Cuentas por Cobrar
+│   │   │   ├── Aplicacion de Pagos
+│   │   │   │   ├── _S21 AR Collection Manual.pdf
+│   │   │   │   ├── _S21 AR _1 Overview_ Rcpt_CashApp.pdf
+│   │   │   │   ├── _S21 AR _4_ CSV_Upload.pdf
+│   │   │   │   ├── _S21 AR_2_ Auto CashApp.pdf
+│   │   │   │   └── _S21 AR_3_ Inquiry_Purge.pdf
+│   │   │   └── Cobranza
+│   │   │       └── _S21 AR Collection Manual.pdf
+│   │   ├── Facturacion
+│   │   │   ├── Facturas
+│   │   │   └── Notas de Debito y Credito
+│   │   ├── Finanzas
+│   │   │   ├── AJE
+│   │   │   │   └── S21 AJE for CMEX operation manual (1).pdf
+│   │   │   └── Costos
+│   │   │       └── S21 Cost for CMEX operation manual.pdf
+│   │   ├── Formatos para UAT
+│   │   └── Post Ventas
+│   │       ├── 2 Despacho
+│   │       ├── 3 Machine Asset
+│   │       │   ├── In Process_S21 Service Reference Guide_Sales Summary for Service.pdf
+│   │       │   ├── S21 Service Reference Guide_CMEX Contract Billing.pdf
+│   │       │   ├── S21 Service Reference Guide_Machine Control Process.pdf
+│   │       │   ├── S21 Service Reference Guide_Meter Entry.pdf
+│   │       │   └── S21 Service Reference Guide_Service Dispatch Process.pdf
+│   │       ├── 4 Contratos Facturacion
+│   │       └── 5 Retornos
+│   ├── Planeacion de Ordenes
+│   │   ├── Carriers 2019.pdf
+│   │   ├── IT-007 Planeacion V8.pdf
+│   │   └── WMS 8.4.1 Planeacion V2.pdf
+│   ├── Recepcion de Equipos en servicio directo ITCG
+│   │   └── INTSER-01_2015.pdf
+│   ├── Recepcion de la Mercancia
+│   │   ├── Clasificacion Producto W_s-BICG V1.pdf
+│   │   ├── Clasificacion Producto W_s-ITCG V1.pdf
+│   │   ├── IT-001 Recepción de Mercancía V10.pdf
+│   │   ├── WMS 8.4 Recepción de Mercancía V2.pdf
+│   │   └── WMS 8.4.1 Foto y Video V2.pdf
+│   ├── Recibo, Acomodo y Surtido en el area de Refacciones
+│   │   ├── IT-006 Recibo, Surtido y Acomodo de Mercancía en el área de Refacciones V11.pdf
+│   │   ├── Instrucciones Especiales.pdf
+│   │   └── WMS 8.4.1 Refacciones V2.pdf
+│   ├── Recibo, Acomodo y surtido de FV
+│   │   └── IT-005 Recibo, Acomodo y Surtido Foto y Vídeo V9.pdf
+│   ├── Retail
+│   │   └── IT-010 Preparación de PEdidos para Clientes Retail V1.pdf
+│   ├── Surtido de la Mercancia
+│   │   ├── Clasificacion Producto W_s-ITCG V1.pdf
+│   │   ├── IT-004 Surtido de Mercancía V9.pdf
+│   │   └── WMS 8.4 Surtido de Mercancía V2.pdf
+│   └── eCommerce
+│       ├── IT-013 E-Commerce V1.pdf
+│       └── WMS 8.4.1 Foto y Video V2.pdf
+├── MAC
+│   └── MAC v19 - 251210.pdf
+├── Matriz de Responsabilidades
+│   └── Roles y responsabilidades.pdf
+├── Norma ISO 9001 - 2015
+│   ├── Norma_ISO9001_2015.pdf
+│   └── Norma_ISO_9001_2015.pptx
+├── Politicas
+│   ├── POL-001 POLITICA COMUNICACIÓN
+│   │   └── POL-001 POLITICA COMUNICACIÓN.pdf
+│   ├── POL-002 INFRAESTRUCTURA, IT
+│   │   └── POL-002 Politica Infraestructura IT-Servicios Generales.pdf
+│   ├── POL-003 DOCUMENTACIÓN QMS
+│   │   ├── POL- 003 0.5 MANUAL DE DOCUMENTACION.docx
+│   │   ├── POL-003 0.1 FORMATO PROCESO.docx
+│   │   ├── POL-003 0.2 FORMATO PROCESO INGLES.docx
+│   │   ├── POL-003 0.3 FORMATO POLITICA.docx
+│   │   ├── POL-003 POLITICA DE DOCUMENTACION QMS_.pdf
+│   │   ├── POL-003 QMS DOCUMENTATION POLICY_.pdf
+│   │   └── POL-003. 04 FORMATO POLITICA INGLE3.docx
+│   └── POL-004 CALIDAD QMS
+│       └── POL-004 POLITICA DE CALIDAD SGC.pdf
+├── Procesos y Registros
+│   ├── PRO-001 PROCESO COMPRA DE PRODUCTO
+│   │   ├── PRO-001 PROCESO PLANEACIÓN DE COMPRA DE PRODUCTOS (003).pdf
+│   │   └── PRO-001.1 FORMATO DE COMPRA JIKKEI.docx
+│   ├── PRO-002 PROCESO COMPRA DE REFACCIONES
+│   │   └── PRO-002 PROCESO COMPRA DE REFACCIONES.pdf
+│   ├── PRO-004 PROCESO SATISFACCIÓN DE CLIENTES PHOTOSHOP
+│   │   └── PRO-004 PROCESO DE SATISFACCIÓN DE CLIENTES PHOTOSHOP.pdf
+│   ├── PRO-005 PROCESO SATISFACCIÓN DE CLIENTES CALL CENTER
+│   │   └── PRO-005 PROCESO SATISFACCIÓN DE CLIENTES CALL CENTER.pdf
+│   ├── PRO-006 PROCESO SATISFACCIÓN DE CLIENTES ASAC
+│   │   └── PRO-006 PROCESO SATISFACCIÓN DE CLIENTES ASAC.pdf
+│   ├── PRO-007 PROCESO CUMPLIMIENTO REGULATORIO
+│   │   └── PRO-007 PROCESO CUMPLIMIENTO REGULATORIO.pdf
+│   ├── PRO-008 PROCESO IMPORTACIÓN DE MERCANCIAS
+│   │   └── PRO-008 PROCESO IMPORTACIÓN DE MERCANCIAS.pdf
+│   ├── PRO-009 PROCESO ALMACENAJE DE MERCANCIAS
+│   │   ├── PRO-009 PROCESO ALMACENAJE DE MERCANCIAS.pdf
+│   │   └── PRO-009.1 (FORMATO).xlsx
+│   ├── PRO-010 PROCESO CICLO DE VENTAS EBSS
+│   │   ├── PRO-010 PROCESO CICLO DE VENTAS EBSS.pdf
+│   │   ├── PRO-010.1FORMATO PROPUESTA DE SERVICIOS.pptx
+│   │   ├── PRO-010.2FORMATO LEVANTAMIENTO SOLUCIONES DE IMPRESIÓN.doc
+│   │   ├── PRO-010.3FORMATO DE ASSESSMENT MDS.xlsx
+│   │   └── PRO-010.4FORMATO DE CONTROL DE PROYECTO.xlsx
+│   ├── PRO-011 PROCESO CICLO VENTAS RETAIL
+│   │   └── PRO-011 PROCESO CICLO VENTAS RETAIL.pdf
+│   ├── PRO-012 PROCESO DE VENTAS CANAL MAYORISTAS
+│   │   └── PRO-012 PROCESO DE VENTAS CANAL MAYORISTAS.pdf
+│   ├── PRO-013 PROCESO DE VENTAS CANAL PHOTOSHOP
+│   │   └── PRO-013 PROCESO DE VENTAS CANAL PHOTOSHOP.pdf
+│   ├── PRO-014 PROCESO SOPORTE DE COMPRA
+│   │   └── PRO-014 PROCESO SOPORTE DE COMPRA.pdf
+│   ├── PRO-015 PROCESO VENTAS DEALERS
+│   │   └── PRO-015 PROCESO VENTAS DEALERS BICG FIRMADO ESP FINAL.pdf
+│   ├── PRO-016 PROCESO CONTROL DE EQUIPOS DE MEDICION Y SEGUIMIENTO
+│   │   ├── PRO-016 PROCESO CONTROL DE EQUIPOS DE MEDICION Y SEGUIMIENTO.pdf
+│   │   ├── PRO-016.2 REGISTRO DE CALIBRACION DEL PROBADOR DE RESOLUCION DE LENTES.pdf
+│   │   ├── PRO-016.3 REGISTRO DE CALIBRACION CAJAS DE LUZ.pdf
+│   │   ├── PRO-016.4 INSPECCION DE MULTIPROBADOR DE CAMARAS.pdf
+│   │   └── PRO-016.5 PROCESO NIVEL DE BATERIA.pdf
+│   ├── PRO-017 POCESO PROMOTORIA
+│   │   └── PRO-017 POCESO PROMOTORIA.pdf
+│   ├── PRO-023 PROCESO ALTA DE REFACCIONES
+│   │   ├── PRO-023 PROCESO ALTA DE REFACCIONES BICG (002).pdf
+│   │   ├── REG PRO-0230.1PRO-023 PROCEDIMIENTO DE ALTA DE REFACCIONES BICG.pdf
+│   │   └── REG PRO-0230.2PRO-023 PROCEDIMIENTO DE ALTA DE REFACCIONES BICG.pdf
+│   ├── PRO-025 PROCESO LISTA DE PRECIOS DE PRODUCTOS CONSUMO
+│   │   ├── PRO-025 PRICE LIST PROCESS.pdf
+│   │   ├── PRO-025 PROCESO LISTA DE PRECIOS DE PRODUCTOS.pdf
+│   │   ├── PRO-025.1REVISIÓN_BUDGET.pdf
+│   │   ├── PRO-025.2MAPA_DE_ RUTA_DE_ PRODUCTO_XXXX.pdf
+│   │   ├── PRO-025.3ANALISIS_DE_MERCADO.pdf
+│   │   ├── PRO-025.4GP4_CATEGORÍA_DE_PRODUCTO.pdf
+│   │   ├── PRO-025.5LISTA_DE_PRECIOS_CATEGORÍA_DE_PRODUCTO_CANAL_DE_VENTAS.pdf
+│   │   └── PRO-025.6FORMATO_REGISTRO_ DE_PRECIOS_S21_CATEGORÍA_DE_PRODUCTO.pdf
+│   ├── PRO-026 PROCESO LISTA DE PRECIOS EQUIPOS DE IMPRESION
+│   │   ├── Ejemplo Lista precios.pdf
+│   │   ├── PRO-026 PROCESO LISTA DE PRECIOS.pdf
+│   │   └── Template CUSA LP.xlsx
+│   ├── PRO-027 PROCESO DE LISTA DE PRECIOS REFACCIONES
+│   │   └── PRO-027 PROCESO DE LISTA DE PRECIOS REFACCIONES..pdf
+│   ├── PRO-030 PROCESO ORDENES DE VENTA DE REFACCIONES ASAC Y DEALERS
+│   │   └── PRO-030 PROCESO ORDENES DE VENTA REFACCIONES ITCG.pdf
+│   ├── PRO-031 PROCESO EVALUACIONES A DEALERS
+│   │   └── PRO-031 PROCESO EVALUACIONES DEALER.pdf
+│   ├── PRO-032 PROCESO DE SURTIDO Y EMBARQUES
+│   │   └── PRO-032 PROCESO SURTIDO Y EMBARQUES.pdf
+│   ├── PRO-033 PROCESO LOGISTICA INVERSA
+│   │   ├── PRO-033 LOGISTICA INVERSA.docx
+│   │   └── PRO-033 PROCESO LOGISTICA INVERSA.pdf
+│   ├── PRO-034 PROCESO DE GARANTÍAS
+│   │   ├── PRO-034 PROCESO DE GARANTIA..pdf
+│   │   ├── PRO-034.1 LISTA CONFIRMACION ORDEN.pdf
+│   │   └── PRO-034.1 MATRIZ GESTION DE RIESGOS..pdf
+│   ├── PRO-036 SERVICIO DIRECTO ITCG
+│   │   ├── INTSER-01 RECEPCION DE EQUIPOS EN SERVICIO DIRECTO.pdf
+│   │   ├── INTSER-02 CONTROL DE CALIDAD DE LAS REPARACIONES.pdf
+│   │   ├── PRO-036 PROCESO SERVICIO DE REPARACION FOTO Y VIDEO JP.pdf
+│   │   ├── PRO-036.1 ORDEN DE REPARACION.pdf
+│   │   ├── PRO-036.2 SOLICITUD DE ENTREGA DE EQUIPO.pdf
+│   │   └── PRO-036.3 REVISION DE ORDENES DE REPARACION.pdf
+│   ├── PRO-037 PROCESO SERVICIO ASAC
+│   │   └── PRO-037 PROCESO SERVICIO ASAC.pdf
+│   ├── PRO-040 PROCESO CALL CENTER
+│   │   └── PRO-040 PROCESO CALL CENTER.pdf
+│   ├── PRO-041 PROCESO DE RECLUTAMIENTO
+│   │   ├── PRO-041 - Proceso Reclutamiento- Firma.pdf
+│   │   ├── Pro -041.1.xlsx
+│   │   └── Pro -041.2.xlsx
+│   ├── PRO-042 PROCESO CAPACITACION POR COMPETENCIAS
+│   │   ├── PRO-042 - Proceso Capacitación por competencias - Firma.pdf
+│   │   └── Pro -042.1.xls
+│   ├── PRO-043 PROCESO CAPACITACIÓN DE SERVICIO
+│   │   └── PRO-043  Proceso de Capacitación de Servicio BICG FIRMADO ESP FINAL.pdf
+│   ├── PRO-044 PROCESO EVALUACIÓN DEL DESEMPEÑO
+│   │   └── PRO-044 - Proceso Evaluación del Desempeño - Firma.pdf
+│   ├── PRO-045 PROCESO PREVISIÓN DE RECURSOS
+│   │   ├── PRO-045 PROCESO PREVISIÓN DE RECURSOS.pdf
+│   │   ├── PRO-045 RESOURCE FORECASTING PROCESS.pdf
+│   │   ├── PRO-045.1 Calendario de elaboración de presupuesto - Original Budget 2024.xlsx
+│   │   └── PRO-045.2 XXXXXX CC Original budget 2024.xlsx
+│   ├── PRO-047 PROCESO ALTA DIRECCION
+│   │   └── PRO-047 PROCESO ALTA DIRECCION.pdf
+│   ├── PRO-048 PROCESO GESTION NO CONFORMIDADES
+│   │   └── PRO-048 PROCESO GESTION NO CONFORMIDADES.pdf
+│   ├── PRO-049 PROCESO AUDITORIA INTERNA
+│   │   ├── PR0-049 0.2 SCORECARD.xlsx
+│   │   ├── PRO-049 0.1 PROGRAMA DE AUDITORIA INTERNA.docx
+│   │   ├── PRO-049 0.3 REPORTE DE AUDITORIA.docx
+│   │   ├── PRO-049 0.4 ANNEX A.docx
+│   │   ├── PRO-049 PROCESO AUDITORIA INTERNA SGC.pdf
+│   │   └── PRO-049 QMS INTERNAL AUDIT PROCEDURE.pdf
+│   ├── PRO-050 PROCESO MEJORA CONTINUA
+│   │   └── PRO-050 PROCESO MEJORA CONTINUA.pdf
+│   ├── PRO-051 PROCESO GESTION DE CONTRATOS BICG
+│   │   └── PRO-051 PROCESO GESTION DE CONTRATOS DE VENTA DIRECTA.pdf
+│   ├── PRO-052 PROCESO GESTION DE CONTRATOS ITCG
+│   │   └── PRO-052 PROCESO GESTION DE CONTRATOS ITCG.pdf
+│   ├── PRO-053 PROCESO GESTIÓN DE CAMBIOS QMS
+│   │   └── PRO-053 PROCESO GESTIÓN DE CAMBIOS QMS.pdf
+│   ├── PRO-054 PROCESO EVALUACIONES ASAC
+│   │   ├── PRO-054 PROCESO EVALUACIONES ASAC.pdf
+│   │   └── PRO-054.1FORMATO CERTIFICADO ASAC.pdf
+│   ├── PRO-055 PROCESO CAPACITACIONES ASAC
+│   │   ├── PRO-055 PROCESO CAPACITACIONES ASAC.pdf
+│   │   └── PRO-055.1FORMATO CONSTANCIA DEL CURSO.pdf
+│   ├── PRO-056 PROCESO GESTION DE RIESGOS
+│   │   ├── PRO-056 PROCESO GESTION DE RIESGOS.pdf
+│   │   └── PRO-056.1 MATRIZ GESTION DE RIESGOS.docx
+│   ├── Pro-018 PROCESO MAPA DE RUTA DE PRODUCTOS CONSUMO
+│   │   ├── PRO-018 PROCESO MAPA DE RUTA DE PRODUCTOS.pdf
+│   │   ├── PRO-018 PRODUCT ROADMAP PROCESS.pdf
+│   │   ├── PRO-018.1Offer_document.pdf
+│   │   └── PRO-018.2Mapa_de_ruta_de_producto_2023.pdf
+│   ├── Pro-019 PROCESO PLAN DE MERCADOTECNIA CONSUMO
+│   │   ├── PRO-019 MARKETING PLAN PROCESS.pdf
+│   │   ├── PRO-019 PROCESO PLAN DE MERCADOTECNIA.pdf
+│   │   └── PRO-019.1XXXX_CMEX_IPSD_.pdf
+│   ├── Pro-020 PROCESO ROADMAP EQUIPOS DE IMPRESIÓN
+│   │   └── PRO-020 PROCESO ROADMAP BICG.pdf
+│   ├── Pro-021 PROCESO PLAN MARKETING EQUIPOS IMPRESION
+│   │   ├── PRO-021 PROCESO PLAN MARKETING.pdf
+│   │   └── PRO-021.1FORMATO DE ANÁLISIS DE TCO.xlsx
+│   ├── Pro-022 PROCESO ALTA DE PRODUCTOS
+│   │   └── PRO-022 PROCESO ALTA DE PRODUCTOS BICG E ITCG.pdf
+│   ├── Pro-029 PROCESO DE CAPTURA DE ORDENES
+│   │   ├── PRO-029 PROCESO CAPTURA DE  ORDENES (002).pdf
+│   │   └── PRO-029 PROCESO CAPTURA DE ORDENES DPPS.pdf
+│   ├── Pro-038 PROCESO SERVICIO DIRECTO IMPRESION
+│   │   └── PRO-038 PROCESO SERVICIO DIRECTO BICG.pdf
+│   ├── Pro-039 PROCESO SERVICIO INDIRECTO IMPRESION
+│   │   └── PRO-039 PROCESO SERVICIO INDIRECTO BICG.pdf
+│   └── Pro-046 PROCESO MAPA DE RIESGOS TI
+│       └── PRO-046 Proceso Mapa de Riesgos Tecnologias de la Informacion.pdf
+└── sgc.txt
+
+184 directories, 308 files
