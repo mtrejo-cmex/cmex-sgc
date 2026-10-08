@@ -1,0 +1,25 @@
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv/
+
+# Dependencias y builds
+node_modules/
+dist/
+build/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos del sistema y logs
+.env
+*.log
+.DS_Store
+Thumbs.db
+
+# Ignorar carpeta de datos local del frontend
+frontend/data/
+web-development/gestion_calidad/frontend/data/

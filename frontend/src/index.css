@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+
+@theme {
+  /* Esto registra el color para que Tailwind cree automáticamente bg-canon-red, hover:bg-canon-red, etc. */
+  --color-canon-red: #d40000;
+}
